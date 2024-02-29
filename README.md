@@ -3,11 +3,9 @@
 [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/thomas-keene-1a780251"
+    link = "www.linkedin.com/in/"
+    
 
-    [[params.social]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/"
 
 <!--
 **keenet1/keenet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
