@@ -3,10 +3,16 @@
 
 My name is Thomas and I am a recent graduate of the University of Minnesota Data Visualization and Analytics bootcamp. I enjoy learning about new ways to access, analyze, and present data. As an analytical chemist by training, I especially like working with scientific data (especially chromatographic data). My recent bootcamp experience has equipped me with an entirely new set of data analysis skills  - examples of which you can view here in my GitHub repository. You can learn more about my background from my LinkedIn profile at: www.linkedin.com/in/thomas-keene-1a780251
 
-## Skills and Experience
-*
-
-Skills: Data Analytics & Visualization / Excel / VBA / Python / SQL / JS / Machine Learning / Docker / Tableau / Empower / NuGenesis / ChemStation
+## Skills
+* Data Analytics & Visualization
+* Excel & VBA
+* Python
+* SQL
+* JS
+* Machine Learning
+* Docker
+* Tableau
+* Empower, NuGenesis, ChemStation
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keenet1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomas-keene-1a780251)
 
