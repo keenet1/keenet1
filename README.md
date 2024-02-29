@@ -1,9 +1,9 @@
-### Hi there 👋, welcome to my GitHub page!
+## Hi there 👋, welcome to my GitHub page!
 ![banner](https://github.com/keenet1/keenet1/blob/main/Images/molecules-science-blue-chemistry-banner_gc-banner-1600x400_249626.jpg-nggid0513227-ngg0dyn-1920x1080x100-00f0w010c010r110f110r010t010.jpg)
 
 My name is Thomas and I am a recent graduate of the University of Minnesota Data Visualization and Analytics bootcamp. I enjoy learning about new ways to access, analyze, and present data. As an analytical chemist by training, I especially like working with scientific data (especially chromatographic data). My recent bootcamp experience has equipped me with an entirely new set of data analysis skills  - examples of which you can view here in my GitHub repository.
 
-## Skills
+### Skills
 * Data Analytics & Visualization
 * Excel & VBA
 * Python
