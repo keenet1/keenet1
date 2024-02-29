@@ -1,5 +1,8 @@
 ### Hi there! Welcome to my GitHub page 👋
 
+My name is Thomas and I am a recent graduate of the University of Minnesota Data Visualization and Analytics bootcamp. I enjoy learning about new ways to access, analyze, and present data. As an analytical chemist by training, I especially like working with scientific data (especially chromatographic data). My recent bootcamp experience has equipped me with an entirely new set of data analysis skills which you may find here in my GitHub repository. You can learn more about my background from my LinkedIn profile at: www.linkedin.com/in/thomas-keene-1a780251
+
+
 <!--
 **keenet1/keenet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
