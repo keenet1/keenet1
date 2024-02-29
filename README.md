@@ -1,9 +1,9 @@
 ### Hi there! Welcome to my GitHub page 👋
 
 [[params.social]]
-    icon = "linkedin"
+    url   = "https://linkedin.com/"
+    icon  = "linkedin-in" # icon name without the 'fa-'
     icon_pack = "fab"
-    link = "www.linkedin.com"
 
  
 
