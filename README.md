@@ -1,12 +1,5 @@
 ### Hi there! Welcome to my GitHub page 👋
 
-[[params.social]]
-    url   = "https://linkedin.com/"
-    icon  = "linkedin-in" # icon name without the 'fa-'
-    icon_pack = "fab"
-
- 
-
 <!--
 **keenet1/keenet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
