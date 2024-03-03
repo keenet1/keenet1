@@ -2,11 +2,12 @@
 ![banner](https://github.com/keenet1/keenet1/blob/main/Images/molecules-science-blue-chemistry-banner_gc-banner-1600x400_249626.jpg-nggid0513227-ngg0dyn-1920x1080x100-00f0w010c010r110f110r010t010.jpg)
 
 ## About Me
-My name is Thomas and I am a recent graduate of the University of Minnesota Data Visualization and Analytics bootcamp. I enjoy learning about new ways to access, analyze, and present data. As an analytical chemist by training, I especially like working with scientific data (especially chromatographic data). My recent bootcamp experience has equipped me with an entirely new set of data analysis skills  - a few examples of which are displayed in the "Pinned" repositories which can be found towards the bottom of this page.
+My name is Thomas and I am a recent graduate of the University of Minnesota Data Visualization and Analytics bootcamp. I enjoy learning about new ways to access, analyze, and present data. As an analytical chemist by training, I especially like working with scientific data (especially chromatographic data). My recent bootcamp experience has equipped me with an entirely new set of data analysis skills  - a few examples of which are displayed in the "Pinned" repositories section which can be found towards the bottom of this page.
 
 Thank you so much again for visiting my page and please feel free to explore my repos!
 
-Please feel free to connect with me on LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomas-keene-1a780251)
+Please feel free to connect with me on LinkedIn:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomas-keene-1a780251)
 
 ## Skills
 * Data Analytics & Visualization
