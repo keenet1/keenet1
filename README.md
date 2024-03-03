@@ -6,6 +6,8 @@ My name is Thomas and I am a recent graduate of the University of Minnesota Data
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomas-keene-1a780251) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keenet1)
 
+Thank you for visiting my page and please feel free to explore my repos!
+
 ## Skills
 * Data Analytics & Visualization
 * Excel & VBA
