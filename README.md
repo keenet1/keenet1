@@ -7,6 +7,7 @@ My name is Thomas and I am a recent graduate of the University of Minnesota Data
 Thank you so much again for visiting my page and please feel free to explore my repos!
 
 Please feel free to connect with me on LinkedIn:
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomas-keene-1a780251)
 
 ## Skills
