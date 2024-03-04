@@ -26,7 +26,7 @@ Please feel free to connect with me on LinkedIn:
 <img src="https://github-readme-stats.vercel.app/api?username=keenet1&show_icons=true&rank_icon=github" />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenet1&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keenet1&show_icons=true&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenet1&layout=compact)
 
