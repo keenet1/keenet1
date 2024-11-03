@@ -2,7 +2,7 @@
 ![alt text](https://github.com/keenet1/keenet1/blob/main/Images/Completed%20Profile%20LinkedIn%20Banner.jpg)
 
 ## About Me
-My name is Thomas and I am a recent graduate of the University of Minnesota Data Visualization and Analytics bootcamp. I enjoy learning about new ways to access, analyze, and present data. As an analytical chemist by training, I especially like working with scientific data (especially chromatographic data). My recent bootcamp experience has equipped me with an entirely new set of data analysis skills  - a few examples of which are displayed in the "Pinned" repositories section which can be found towards the bottom of this page.
+My name is Thomas and I am a Business Intelligence Developer I at Trean Corporation as well as a graduate of the University of Minnesota Data Visualization and Analytics bootcamp. I enjoy learning about new ways to access, analyze, and present data.
 
 Thank you so much again for visiting my page and please feel free to explore my repos!
 
