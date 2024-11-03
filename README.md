@@ -4,7 +4,7 @@
 ## About Me
 My name is Thomas and I am a Business Intelligence Developer I at Trean Corporation as well as a graduate of the University of Minnesota Data Visualization and Analytics bootcamp. I enjoy learning about new ways to access, analyze, and present data.
 
-Thank you so much again for visiting my page and please feel free to explore my repos!
+Thank you so much for visiting my page and please feel free to explore my repos!
 
 Please feel free to connect with me on LinkedIn:
 
